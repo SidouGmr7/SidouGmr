@@ -7,7 +7,8 @@
 
 <h3 align="center">A frontend ReactJS developer</h3>
 
-- 💬 [My Portfolio](portfolio-gmr.vercel.app) - 💬 Ask me about **Web Development**
+- 💬 [My Portfolio](portfolio-gmr.vercel.app) 
+- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -170,12 +171,4 @@
         />
     </a>
 
-</p>
-
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sidougmr7&show_icons=true&locale=en&layout=compact"
-        alt="sidougmr7"
-    />
 </p>

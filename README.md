@@ -1,11 +1,11 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"
         ><img
-            src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Sidou.;ReactJs+Web+Developer.;Firebase+Developer.;&center=true&width=500&height=50"
+            src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Sidou.;FullStack+Web+Developer.;MERN+Developer.;&center=true&width=500&height=50"
     /></a>
 </p>
 
-<h3 align="center">A frontend ReactJS developer</h3>
+<h3 align="center">A Fullstack Web Developer</h3>
 
 - 💬 [My Portfolio](portfolio-gmr.vercel.app) 
 - 💬 Ask me about **Web Development**
